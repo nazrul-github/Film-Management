@@ -1,0 +1,56 @@
+G:\VS 2017 Project\#MVC\Film Management System\Film Management System\bin\Film Management System.dll.config
+G:\VS 2017 Project\#MVC\Film Management System\Film Management System\bin\Film Management System.dll
+G:\VS 2017 Project\#MVC\Film Management System\Film Management System\bin\Film Management System.pdb
+G:\VS 2017 Project\#MVC\Film Management System\Film Management System\bin\roslyn\csc.exe
+G:\VS 2017 Project\#MVC\Film Management System\Film Management System\bin\roslyn\csc.exe.config
+G:\VS 2017 Project\#MVC\Film Management System\Film Management System\bin\roslyn\csc.rsp
+G:\VS 2017 Project\#MVC\Film Management System\Film Management System\bin\roslyn\csi.exe
+G:\VS 2017 Project\#MVC\Film Management System\Film Management System\bin\roslyn\csi.rsp
+G:\VS 2017 Project\#MVC\Film Management System\Film Management System\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+G:\VS 2017 Project\#MVC\Film Management System\Film Management System\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+G:\VS 2017 Project\#MVC\Film Management System\Film Management System\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+G:\VS 2017 Project\#MVC\Film Management System\Film Management System\bin\roslyn\Microsoft.CodeAnalysis.dll
+G:\VS 2017 Project\#MVC\Film Management System\Film Management System\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+G:\VS 2017 Project\#MVC\Film Management System\Film Management System\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+G:\VS 2017 Project\#MVC\Film Management System\Film Management System\bin\roslyn\Microsoft.CSharp.Core.targets
+G:\VS 2017 Project\#MVC\Film Management System\Film Management System\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+G:\VS 2017 Project\#MVC\Film Management System\Film Management System\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+G:\VS 2017 Project\#MVC\Film Management System\Film Management System\bin\roslyn\Microsoft.VisualBasic.Core.targets
+G:\VS 2017 Project\#MVC\Film Management System\Film Management System\bin\roslyn\System.AppContext.dll
+G:\VS 2017 Project\#MVC\Film Management System\Film Management System\bin\roslyn\System.Collections.Immutable.dll
+G:\VS 2017 Project\#MVC\Film Management System\Film Management System\bin\roslyn\System.Diagnostics.StackTrace.dll
+G:\VS 2017 Project\#MVC\Film Management System\Film Management System\bin\roslyn\System.IO.FileSystem.dll
+G:\VS 2017 Project\#MVC\Film Management System\Film Management System\bin\roslyn\System.IO.FileSystem.Primitives.dll
+G:\VS 2017 Project\#MVC\Film Management System\Film Management System\bin\roslyn\System.Reflection.Metadata.dll
+G:\VS 2017 Project\#MVC\Film Management System\Film Management System\bin\roslyn\vbc.exe
+G:\VS 2017 Project\#MVC\Film Management System\Film Management System\bin\roslyn\vbc.exe.config
+G:\VS 2017 Project\#MVC\Film Management System\Film Management System\bin\roslyn\vbc.rsp
+G:\VS 2017 Project\#MVC\Film Management System\Film Management System\bin\roslyn\VBCSCompiler.exe
+G:\VS 2017 Project\#MVC\Film Management System\Film Management System\bin\roslyn\VBCSCompiler.exe.config
+G:\VS 2017 Project\#MVC\Film Management System\Film Management System\bin\Antlr3.Runtime.dll
+G:\VS 2017 Project\#MVC\Film Management System\Film Management System\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+G:\VS 2017 Project\#MVC\Film Management System\Film Management System\bin\Microsoft.Web.Infrastructure.dll
+G:\VS 2017 Project\#MVC\Film Management System\Film Management System\bin\Newtonsoft.Json.dll
+G:\VS 2017 Project\#MVC\Film Management System\Film Management System\bin\System.Web.Helpers.dll
+G:\VS 2017 Project\#MVC\Film Management System\Film Management System\bin\System.Web.Mvc.dll
+G:\VS 2017 Project\#MVC\Film Management System\Film Management System\bin\System.Web.Optimization.dll
+G:\VS 2017 Project\#MVC\Film Management System\Film Management System\bin\System.Web.Razor.dll
+G:\VS 2017 Project\#MVC\Film Management System\Film Management System\bin\System.Web.WebPages.Deployment.dll
+G:\VS 2017 Project\#MVC\Film Management System\Film Management System\bin\System.Web.WebPages.dll
+G:\VS 2017 Project\#MVC\Film Management System\Film Management System\bin\System.Web.WebPages.Razor.dll
+G:\VS 2017 Project\#MVC\Film Management System\Film Management System\bin\WebGrease.dll
+G:\VS 2017 Project\#MVC\Film Management System\Film Management System\bin\System.Web.Helpers.xml
+G:\VS 2017 Project\#MVC\Film Management System\Film Management System\bin\System.Web.Mvc.xml
+G:\VS 2017 Project\#MVC\Film Management System\Film Management System\bin\System.Web.Optimization.xml
+G:\VS 2017 Project\#MVC\Film Management System\Film Management System\bin\System.Web.Razor.xml
+G:\VS 2017 Project\#MVC\Film Management System\Film Management System\bin\System.Web.WebPages.xml
+G:\VS 2017 Project\#MVC\Film Management System\Film Management System\bin\System.Web.WebPages.Deployment.xml
+G:\VS 2017 Project\#MVC\Film Management System\Film Management System\bin\System.Web.WebPages.Razor.xml
+G:\VS 2017 Project\#MVC\Film Management System\Film Management System\bin\Newtonsoft.Json.xml
+G:\VS 2017 Project\#MVC\Film Management System\Film Management System\bin\Antlr3.Runtime.pdb
+G:\VS 2017 Project\#MVC\Film Management System\Film Management System\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+G:\VS 2017 Project\#MVC\Film Management System\Film Management System\obj\Debug\Film Management System.csprojAssemblyReference.cache
+G:\VS 2017 Project\#MVC\Film Management System\Film Management System\obj\Debug\Film Management System.csproj.CoreCompileInputs.cache
+G:\VS 2017 Project\#MVC\Film Management System\Film Management System\obj\Debug\Film Management System.csproj.CopyComplete
+G:\VS 2017 Project\#MVC\Film Management System\Film Management System\obj\Debug\Film Management System.dll
+G:\VS 2017 Project\#MVC\Film Management System\Film Management System\obj\Debug\Film Management System.pdb
