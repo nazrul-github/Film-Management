@@ -52,7 +52,7 @@ namespace Film_Management_System.DAL
                 command.Parameters.AddWithValue("@Title", filmActorCategoryViewModel.Title);
                 command.Parameters.AddWithValue("@Description", filmActorCategoryViewModel.Description);
                 command.Parameters.AddWithValue("@ReleaseYear", filmActorCategoryViewModel.ReleaseYear);
-                command.Parameters.AddWithValue("@RentalDuration", filmActorCategoryViewModel.Title);
+                command.Parameters.AddWithValue("@RentalDuration", filmActorCategoryViewModel.RentalDuration);
                 command.Parameters.AddWithValue("@RentalRate", filmActorCategoryViewModel.RentalRate);
                 command.Parameters.AddWithValue("@Rating", filmActorCategoryViewModel.Rating);
                 command.Parameters.AddWithValue("@ActorFirstName", filmActorCategoryViewModel.FirstName);
@@ -71,8 +71,8 @@ namespace Film_Management_System.DAL
                
                 connection.Open();
               int rowAffected =  command.ExecuteNonQuery();
-              int one = Convert.ToInt32(filmId);
-              int two = Convert.ToInt32(actorId);
+    /*          int one = Convert.ToInt32(filmId);
+              int two = Convert.ToInt32(actorId);*/
                 connection.Close();
                 if (rowAffected>0)
                 {
